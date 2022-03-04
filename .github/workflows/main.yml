@@ -19,7 +19,7 @@ jobs:
 
         - name: execute php follow # run the follow.php
           run: |
-              php follow.php DennisRono ${{ secrets.flx_token }} ${{ secrets.telegram_api }} ${{ secrets.chat_id}}
+              php follow.php DennisRono
               
         - name: commit files
           run: |
