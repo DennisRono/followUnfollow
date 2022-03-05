@@ -19,7 +19,7 @@ jobs:
 
         - name: execute php follow # run the follow.php
           run: |
-              php follow.php DennisRono
+              php follow.php DennisRono ${{ secrets.ACCPASS }}
               
         - name: commit files
           run: |
