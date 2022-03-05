@@ -192,7 +192,7 @@ if ($data["followers"] != $data["following"]) {
 //$res = $username;
 
 
-date_default_timezone_set("UTC");
+date_default_timezone_set("Africa/Nairobi");
 
 function generateReadme($used, $limit, $cFs, $cTs, $cFg, $cTg) {
     $readme = "# auto-follow-unfollow\n";
