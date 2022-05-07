@@ -3,7 +3,7 @@ Follow and unfollow users automatically
 
 [![Script](https://github.com/fbiego/auto-follow-unfollow/actions/workflows/main.yml/badge.svg)](https://github.com/fbiego/auto-follow-unfollow/actions/workflows/main.yml)
 ### Run details
-- Last run `Sat, 07 May 2022 22:53:55 +0300`
+- Last run `Sat, 07 May 2022 23:08:56 +0300`
 - X-RateLimit-Used: `0`
 - X-RateLimit-Limit: `5000`
 
